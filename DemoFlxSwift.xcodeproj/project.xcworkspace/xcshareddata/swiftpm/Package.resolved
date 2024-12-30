@@ -1,0 +1,15 @@
+{
+  "originHash" : "bf3f99296f4cecbbd545225167672ff391ed9c72caa7344d01956211b4ce1fb7",
+  "pins" : [
+    {
+      "identity" : "flxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/the-flx/FlxSwift",
+      "state" : {
+        "revision" : "143c1850097dc773d18849fe8d0425cdabb4fca3",
+        "version" : "0.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
